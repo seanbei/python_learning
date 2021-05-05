@@ -105,9 +105,9 @@ print(alien_0)
 # n=int(input("Give me the number of lines :"))
 # alphabets="abc"
 # for i in range(n+1):
-    # for j in range(i):
-        # print(alphabets[j%3], end ="")
-    # print("")
+#     for j in range(i):
+#         print(alphabets[j%3], end ="")
+#     print("")
     
 del alien_0['y_position']
 print(alien_0)
